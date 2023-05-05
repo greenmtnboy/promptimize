@@ -72,7 +72,7 @@ Options:
   -m, --max-tokens INTEGER  max_tokens passed to the model
   -l, --limit INTEGER       limit how many prompt cases to run in a single
                             batch
-  -t, --temperature FLOAT   max_tokens passed to the model
+  -t, --temperature FLOAT   temperature passed to the model
   -e, --engine TEXT         model as accepted by the openai API
   -k, --key TEXT            The keys to run
   -o, --output PATH
